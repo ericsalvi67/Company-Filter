@@ -15,47 +15,69 @@ Faça um programa que leia as informações dos N funcionários e das M cidades.
 Após, o programa deverá gerar um relatório (em tela) que escreva o nome de cada cidade  e os dados (código e nome) dos funcionário que nela residem. 
 As cidades devem ser escritas em ordem alfabética, bem como os funcionários de cada cidade também devem ser escritos em ordem alfabética.
 
+/-----------------------------------------------/
+
 Considerando um N=6 e dada as seguintes informações a respeito dos funcionários
 
 23 
 Marcos Gomes Silva 
 1
+
 45 
 Rodrigo Correia Ribeiro 
 2 
+
 65 
 Alice Oliveira Santos 
 3
+
 34 
 Nicolas Silva Cavalcanti 
 2
+
 27 
 Daniel Silva Melo 
 1 
+
 14 
 Diogo Sousa Almeida 
 2
+
+/-----------------------------------------------/
+
 e considerando um M=3 com as seguintes informações das cidades
 
 1 
 Caxias do Sul 
 RS
+
 2 
 Farroupilha 
 RS
+
 3 
 Bento Gonçalves 
 RS
+
+/-----------------------------------------------/
+
 o programa deve produzir a seguinte saída
 
-Caxias do Sul - RS
+- Caxias do Sul - RS
+
 27 Daniel Silva Melo
+
 23 Marcos Gomes Silva
 
-Bento Gonçalves - RS
+
+- Bento Gonçalves - RS
+
 65 Alice Oliveira Santos
 
-Farroupilha - RS
+- Farroupilha - RS
+
 14 Diogo Sousa Almeida
+
 34 Nicolas Silva Cavalcanti
+
 45 Rodrigo Correia Ribeiro
