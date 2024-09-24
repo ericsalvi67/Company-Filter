@@ -1,6 +1,6 @@
 # Company-Filter
 
-> Uma empresa com filiais em diversas cidades possui as informações de seus funcionários organizadas em um vetor de estruturas de N posições, 
+Uma empresa com filiais em diversas cidades possui as informações de seus funcionários organizadas em um vetor de estruturas de N posições, 
 onde cada funcionário possui: 
 
 o código do funcionário (inteiro), 
